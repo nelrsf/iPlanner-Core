@@ -1,0 +1,6 @@
+@iPlanner_Core_HostAddress = http://localhost:5165
+
+GET {{iPlanner_Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
