@@ -1,4 +1,4 @@
-﻿namespace iPlanner.Core.Entities.Teams
+﻿namespace iPlanner.Entities.Teams
 {
     public class ScheduleTeamData
     {

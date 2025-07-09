@@ -1,5 +1,5 @@
-using iPlanner.Core.Application.DTO;
-using iPlanner.Core.Application.Services;
+using iPlanner.Application.DTO;
+using iPlanner.Application.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace iPlanner.Infrastructure.Controllers

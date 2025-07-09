@@ -1,6 +1,6 @@
-﻿using iPlanner.Core.Application.DTO.Teams;
+﻿using iPlanner.Application.DTO.Teams;
 
-namespace iPlanner.Core.Application.Services
+namespace iPlanner.Application.Services
 {
     public interface ITeamScheduleService
     {

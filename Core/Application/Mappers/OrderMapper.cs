@@ -1,8 +1,8 @@
-﻿using iPlanner.Core.Application.DTO.Orders;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Entities.Reports;
+﻿using iPlanner.Application.DTO.Orders;
+using iPlanner.Application.Interfaces;
+using iPlanner.Entities.Reports;
 
-namespace iPlanner.Core.Application.Mappers
+namespace iPlanner.Application.Mappers
 {
     public class OrderMapper : IMapper<OrderDTO, Order>
     {

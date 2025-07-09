@@ -1,10 +1,10 @@
-﻿using iPlanner.Core.Application.DTO;
-using iPlanner.Core.Application.DTO.Reports;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Application.Interfaces.Repository;
-using iPlanner.Core.Entities.Reports;
+﻿using iPlanner.Application.DTO;
+using iPlanner.Application.DTO.Reports;
+using iPlanner.Application.Interfaces;
+using iPlanner.Application.Interfaces.Repository;
+using iPlanner.Entities.Reports;
 
-namespace iPlanner.Core.Application.Services.Reports
+namespace iPlanner.Application.Services.Reports
 {
     public class ReportsService : IReportService
     {

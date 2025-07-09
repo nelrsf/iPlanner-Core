@@ -1,8 +1,8 @@
-﻿using iPlanner.Core.Application.DTO.Teams;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Entities.Teams;
+﻿using iPlanner.Application.DTO.Teams;
+using iPlanner.Application.Interfaces;
+using iPlanner.Entities.Teams;
 
-namespace iPlanner.Core.Application.Mappers
+namespace iPlanner.Application.Mappers
 {
     public class TeamMemberMapper : IMapper<TeamMemberDTO, TeamMember>
     {

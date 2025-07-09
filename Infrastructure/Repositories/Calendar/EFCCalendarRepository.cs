@@ -1,9 +1,9 @@
-﻿using iPlanner.Core.Application.DTO.Calendar;
-using iPlanner.Core.Application.Services.Calendar;
-using iPlanner.Core.Infrastructure.Data;
+﻿using iPlanner.Application.DTO.Calendar;
+using iPlanner.Application.Services.Calendar;
+using iPlanner.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace iPlanner.Core.Infrastructure.Repositories.Calendar
+namespace iPlanner.Infrastructure.Repositories.Calendar
 {
     public class EFCCalendarRepository : ICalendarRepository
     {

@@ -1,6 +1,6 @@
-﻿using iPlanner.Core.Application.DTO;
+﻿using iPlanner.Application.DTO;
 
-namespace iPlanner.Core.Application.Interfaces.Repository
+namespace iPlanner.Application.Interfaces.Repository
 {
     public interface IReportsExporterAbstractFactory
     {

@@ -1,7 +1,7 @@
-﻿using iPlanner.Core.Application.DTO;
-using iPlanner.Core.Application.DTO.Reports;
+﻿using iPlanner.Application.DTO;
+using iPlanner.Application.DTO.Reports;
 
-namespace iPlanner.Core.Application.Interfaces
+namespace iPlanner.Application.Interfaces
 {
     public interface IReportService
     {

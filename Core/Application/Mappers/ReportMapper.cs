@@ -1,13 +1,13 @@
-﻿using iPlanner.Core.Application.DTO;
-using iPlanner.Core.Application.DTO.Orders;
-using iPlanner.Core.Application.DTO.Teams;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Entities.Locations;
-using iPlanner.Core.Entities.Reports;
-using iPlanner.Core.Entities.Teams;
-using static iPlanner.Core.Entities.Reports.ReportCustomTeam;
+﻿using iPlanner.Application.DTO;
+using iPlanner.Application.DTO.Orders;
+using iPlanner.Application.DTO.Teams;
+using iPlanner.Application.Interfaces;
+using iPlanner.Entities.Locations;
+using iPlanner.Entities.Reports;
+using iPlanner.Entities.Teams;
+using static iPlanner.Entities.Reports.ReportCustomTeam;
 
-namespace iPlanner.Core.Application.Mappers
+namespace iPlanner.Application.Mappers
 {
     public class LocationTypeDTO
     {

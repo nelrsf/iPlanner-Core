@@ -1,4 +1,4 @@
-﻿namespace iPlanner.Core.Application.DTO.Calendar
+﻿namespace iPlanner.Application.DTO.Calendar
 {
     public class CalendarDayDTO
     {

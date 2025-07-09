@@ -1,8 +1,8 @@
-﻿using iPlanner.Core.Application.DTO.Calendar;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Application.Services.Calendar;
+﻿using iPlanner.Application.DTO.Calendar;
+using iPlanner.Application.Interfaces;
+using iPlanner.Application.Services.Calendar;
 
-namespace iPlanner_Core.Infrastructure.Repositories.Calendar
+namespace iPlanner.Infrastructure.Repositories.Calendar
 {
     public class FileCalendarRepository : ICalendarRepository
     {

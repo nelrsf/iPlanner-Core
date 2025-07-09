@@ -1,6 +1,6 @@
-﻿using iPlanner.Core.Application.DTO;
+﻿using iPlanner.Application.DTO;
 
-namespace iPlanner.Core.Application.Services
+namespace iPlanner.Application.Services
 {
     public interface ILocationService
     {

@@ -1,7 +1,7 @@
-﻿using iPlanner.Core.Application.DTO.Orders;
-using iPlanner.Core.Application.DTO.Teams;
+﻿using iPlanner.Application.DTO.Orders;
+using iPlanner.Application.DTO.Teams;
 
-namespace iPlanner.Core.Application.DTO.Reports
+namespace iPlanner.Application.DTO.Reports
 {
     public class ReportFilterDTO
     {

@@ -1,7 +1,7 @@
-﻿using iPlanner.Core.Application.DTO;
-using iPlanner.Core.Application.Interfaces.Repository;
+﻿using iPlanner.Application.DTO;
+using iPlanner.Application.Interfaces.Repository;
 
-namespace iPlanner.Core.Application.Services.Locations
+namespace iPlanner.Application.Services.Locations
 {
     public class LocationService : ILocationService
     {

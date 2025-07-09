@@ -1,4 +1,4 @@
-﻿namespace iPlanner.Core.Application.Interfaces
+﻿namespace iPlanner.Application.Interfaces
 {
     public interface IMapper<DTO, Entity> where DTO : class where Entity : class
     {

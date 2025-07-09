@@ -1,9 +1,9 @@
-using iPlanner.Core.Application.DTO.Orders;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Application.Interfaces.Repository;
+using iPlanner.Application.DTO.Orders;
+using iPlanner.Application.Interfaces;
+using iPlanner.Application.Interfaces.Repository;
 using iPlanner.Infrastructure.Common;
 
-namespace iPlanner_Core.Infrastructure.Repositories.Orders
+namespace iPlanner.Infrastructure.Repositories.Orders
 {
     public class FileOrderRepository : IOrderRepository
     {

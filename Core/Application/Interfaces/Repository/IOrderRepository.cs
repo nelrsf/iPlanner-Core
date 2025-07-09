@@ -1,7 +1,7 @@
-﻿using iPlanner.Core.Application.DTO;
-using iPlanner.Core.Application.DTO.Orders;
+﻿using iPlanner.Application.DTO;
+using iPlanner.Application.DTO.Orders;
 
-namespace iPlanner.Core.Application.Interfaces.Repository
+namespace iPlanner.Application.Interfaces.Repository
 {
     public interface IOrderRepository
     {

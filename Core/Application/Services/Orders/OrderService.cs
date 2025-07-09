@@ -1,10 +1,10 @@
-using iPlanner.Core.Application.DTO;
-using iPlanner.Core.Application.DTO.Orders;
-using iPlanner.Core.Application.DTO.Reports;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Application.Interfaces.Repository;
+using iPlanner.Application.DTO;
+using iPlanner.Application.DTO.Orders;
+using iPlanner.Application.DTO.Reports;
+using iPlanner.Application.Interfaces;
+using iPlanner.Application.Interfaces.Repository;
 
-namespace iPlanner.Core.Application.Services.Orders
+namespace iPlanner.Application.Services.Orders
 {
     public class OrderService : IOrderService
     {

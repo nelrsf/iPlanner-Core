@@ -1,4 +1,4 @@
-﻿using iPlanner.Core.Application.Interfaces;
+﻿using iPlanner.Application.Interfaces;
 using System.IO;
 using System.Text.Json;
 using System.Windows;

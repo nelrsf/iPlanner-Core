@@ -1,6 +1,6 @@
-﻿using iPlanner.Core.Entities.Reports;
+﻿using iPlanner.Entities.Reports;
 
-namespace iPlanner.Core.Entities.Teams.ConflictSchedule
+namespace iPlanner.Entities.Teams.ConflictSchedule
 {
     public interface IConflictScheduleRule
     {

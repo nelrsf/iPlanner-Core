@@ -1,6 +1,6 @@
-﻿using iPlanner.Core.Entities.Teams;
+﻿using iPlanner.Entities.Teams;
 
-namespace iPlanner.Core.Entities.Reports
+namespace iPlanner.Entities.Reports
 {
     public class ReportFilter
     {

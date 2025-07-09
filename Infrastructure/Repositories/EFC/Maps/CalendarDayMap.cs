@@ -1,8 +1,8 @@
-﻿using iPlanner.Core.Application.DTO.Calendar;
+﻿using iPlanner.Application.DTO.Calendar;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace iPlanner_Core.Infrastructure.Repositories.EFC.Maps
+namespace iPlanner.Infrastructure.Repositories.EFC.Maps
 {
     public class CalendarDayMap : IEntityTypeConfiguration<CalendarDayDTO>
     {

@@ -1,4 +1,4 @@
-namespace iPlanner.Core.Application.DTO.Teams
+namespace iPlanner.Application.DTO.Teams
 {
     public class ScheduleTeamDataDTO
     {

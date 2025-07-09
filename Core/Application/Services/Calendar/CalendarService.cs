@@ -1,10 +1,10 @@
-﻿using iPlanner.Core.Application.DTO.Calendar;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Entities.Calendar;
+﻿using iPlanner.Application.DTO.Calendar;
+using iPlanner.Application.Interfaces;
+using iPlanner.Entities.Calendar;
 using Microsoft.EntityFrameworkCore;
 
 
-namespace iPlanner.Core.Application.Services.Calendar
+namespace iPlanner.Application.Services.Calendar
 {
     public class CalendarService : ICalendarService
     {

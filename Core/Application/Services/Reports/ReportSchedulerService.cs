@@ -1,10 +1,10 @@
-﻿using iPlanner.Core.Application.DTO;
-using iPlanner.Core.Application.DTO.Calendar;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Application.Services.Calendar;
-using iPlanner.Core.Entities.Reports;
+﻿using iPlanner.Application.DTO;
+using iPlanner.Application.DTO.Calendar;
+using iPlanner.Application.Interfaces;
+using iPlanner.Application.Services.Calendar;
+using iPlanner.Entities.Reports;
 
-namespace iPlanner.Core.Application.Services.Reports
+namespace iPlanner.Application.Services.Reports
 {
     public class ReportSchedulerService : IReportSchedulerService
     {

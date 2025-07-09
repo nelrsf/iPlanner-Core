@@ -1,7 +1,7 @@
-﻿using iPlanner.Core.Entities.Reports;
-using iPlanner.Core.Entities.Teams;
+﻿using iPlanner.Entities.Reports;
+using iPlanner.Entities.Teams;
 
-namespace iPlanner.Core.Application.Services
+namespace iPlanner.Application.Services
 {
     public interface IConflictValidationService
     {

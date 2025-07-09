@@ -1,6 +1,6 @@
-﻿using iPlanner.Core.Application.DTO.Calendar;
+﻿using iPlanner.Application.DTO.Calendar;
 
-namespace iPlanner.Core.Application.Services.Calendar
+namespace iPlanner.Application.Services.Calendar
 {
     public interface ICalendarRepository
     {
