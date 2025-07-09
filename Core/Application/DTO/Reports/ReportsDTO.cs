@@ -1,9 +1,9 @@
-﻿using iPlanner.Core.Application.DTO.Orders;
-using iPlanner.Core.Application.DTO.Teams;
-using iPlanner.Core.Entities.Locations;
+﻿using iPlanner.Application.DTO.Orders;
+using iPlanner.Application.DTO.Teams;
+using iPlanner.Entities.Locations;
 
 
-namespace iPlanner.Core.Application.DTO
+namespace iPlanner.Application.DTO
 {
     public class ReportsDTO
     {

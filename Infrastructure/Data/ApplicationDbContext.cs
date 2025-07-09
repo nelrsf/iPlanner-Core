@@ -1,9 +1,9 @@
-using iPlanner.Core.Application.DTO;
-using iPlanner.Core.Application.DTO.Calendar;
-using iPlanner_Core.Infrastructure.Repositories.EFC.Maps;
+using iPlanner.Application.DTO;
+using iPlanner.Application.DTO.Calendar;
+using iPlanner.Infrastructure.Repositories.EFC.Maps;
 using Microsoft.EntityFrameworkCore;
 
-namespace iPlanner.Core.Infrastructure.Data
+namespace iPlanner.Infrastructure.Data
 {
     public class ApplicationDbContext : DbContext
     {

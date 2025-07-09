@@ -1,4 +1,4 @@
-﻿namespace iPlanner.Core.Application.Interfaces
+﻿namespace iPlanner.Application.Interfaces
 {
     public interface IExporter<T> where T : class
     {

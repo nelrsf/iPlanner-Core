@@ -1,6 +1,6 @@
-﻿using iPlanner.Core.Entities.Reports;
+﻿using iPlanner.Entities.Reports;
 
-namespace iPlanner.Core.Entities.Teams
+namespace iPlanner.Entities.Teams
 {
     public class ScheduleTeamItem
     {

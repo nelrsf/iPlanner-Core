@@ -1,5 +1,5 @@
-using iPlanner.Core.Application.DTO.Orders;
-using iPlanner.Core.Application.Services.Orders;
+using iPlanner.Application.DTO.Orders;
+using iPlanner.Application.Services.Orders;
 using Microsoft.AspNetCore.Mvc;
 
 namespace iPlanner.Infrastructure.Controllers

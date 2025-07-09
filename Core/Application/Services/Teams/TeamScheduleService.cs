@@ -1,11 +1,11 @@
-﻿using iPlanner.Core.Application.DTO;
-using iPlanner.Core.Application.DTO.Teams;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Application.Interfaces.Repository;
-using iPlanner.Core.Entities.Reports;
-using iPlanner.Core.Entities.Teams;
+﻿using iPlanner.Application.DTO;
+using iPlanner.Application.DTO.Teams;
+using iPlanner.Application.Interfaces;
+using iPlanner.Application.Interfaces.Repository;
+using iPlanner.Entities.Reports;
+using iPlanner.Entities.Teams;
 
-namespace iPlanner.Core.Application.Services.Teams
+namespace iPlanner.Application.Services.Teams
 {
     public class TeamScheduleService : ITeamScheduleService
     {

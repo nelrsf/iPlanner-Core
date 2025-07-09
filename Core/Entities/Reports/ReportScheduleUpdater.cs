@@ -1,4 +1,4 @@
-﻿namespace iPlanner.Core.Entities.Reports
+﻿namespace iPlanner.Entities.Reports
 {
     public static class ReportScheduleUpdater
     {

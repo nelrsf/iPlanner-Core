@@ -1,6 +1,6 @@
 using System.Globalization;
 
-namespace iPlanner.Core.Application.Services.Calendar
+namespace iPlanner.Application.Services.Calendar
 {
     /// <summary>
     /// Proporciona métodos para realizar cálculos relacionados con fechas en un calendario,

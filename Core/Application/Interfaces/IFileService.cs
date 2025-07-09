@@ -1,6 +1,6 @@
 using System;
 
-namespace iPlanner.Core.Application.Interfaces
+namespace iPlanner.Application.Interfaces
 {
     public interface IFileService
     {

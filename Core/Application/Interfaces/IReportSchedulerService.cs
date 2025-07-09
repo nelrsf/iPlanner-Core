@@ -1,6 +1,6 @@
-﻿using iPlanner.Core.Application.DTO;
+﻿using iPlanner.Application.DTO;
 
-namespace iPlanner.Core.Application.Interfaces
+namespace iPlanner.Application.Interfaces
 {
     public interface IReportSchedulerService
     {

@@ -1,4 +1,4 @@
-﻿namespace iPlanner.Core.Entities.Locations
+﻿namespace iPlanner.Entities.Locations
 {
     public enum LocationTypes
     {

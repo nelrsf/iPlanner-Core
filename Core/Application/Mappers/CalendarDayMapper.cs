@@ -1,8 +1,8 @@
-﻿using iPlanner.Core.Application.DTO.Calendar;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Entities.Calendar;
+﻿using iPlanner.Application.DTO.Calendar;
+using iPlanner.Application.Interfaces;
+using iPlanner.Entities.Calendar;
 
-namespace iPlanner.Core.Application.Mappers
+namespace iPlanner.Application.Mappers
 {
     public class CalendarDayMapper : IMapper<CalendarDayDTO, CalendarDay>
     {

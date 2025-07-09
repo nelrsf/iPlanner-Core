@@ -1,4 +1,4 @@
-﻿namespace iPlanner.Core.Application.DTO.Orders
+﻿namespace iPlanner.Application.DTO.Orders
 {
     public class OrdersFilterDTO
     {

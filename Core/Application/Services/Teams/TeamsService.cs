@@ -1,8 +1,8 @@
-﻿using iPlanner.Core.Application.DTO.Teams;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Application.Interfaces.Repository;
+﻿using iPlanner.Application.DTO.Teams;
+using iPlanner.Application.Interfaces;
+using iPlanner.Application.Interfaces.Repository;
 
-namespace iPlanner.Core.Application.Services.Teams
+namespace iPlanner.Application.Services.Teams
 {
     public class TeamsService : ITeamService
     {

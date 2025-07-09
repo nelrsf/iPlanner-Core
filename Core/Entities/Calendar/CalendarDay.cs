@@ -1,4 +1,4 @@
-﻿namespace iPlanner.Core.Entities.Calendar
+﻿namespace iPlanner.Entities.Calendar
 {
     public class CalendarDay
     {

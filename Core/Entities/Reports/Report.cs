@@ -1,8 +1,8 @@
-﻿using iPlanner.Core.Entities.Interfaces;
-using iPlanner.Core.Entities.Locations;
-using iPlanner.Core.Entities.Teams;
+﻿using iPlanner.Entities.Interfaces;
+using iPlanner.Entities.Locations;
+using iPlanner.Entities.Teams;
 
-namespace iPlanner.Core.Entities.Reports
+namespace iPlanner.Entities.Reports
 {
     public class Report : IClonable<Report>
     {

@@ -1,4 +1,4 @@
-﻿namespace iPlanner.Core.Entities.Interfaces
+﻿namespace iPlanner.Entities.Interfaces
 {
     public interface IClonable<T>
     {

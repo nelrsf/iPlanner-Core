@@ -1,5 +1,5 @@
-using iPlanner.Core.Application.DTO.Teams;
-using iPlanner.Core.Application.Services.Teams;
+using iPlanner.Application.DTO.Teams;
+using iPlanner.Application.Services.Teams;
 using Microsoft.AspNetCore.Mvc;
 
 namespace iPlanner.Infrastructure.Controllers

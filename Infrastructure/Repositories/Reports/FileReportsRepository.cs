@@ -1,9 +1,9 @@
-﻿using iPlanner.Core.Application.DTO;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Application.Interfaces.Repository;
+﻿using iPlanner.Application.DTO;
+using iPlanner.Application.Interfaces;
+using iPlanner.Application.Interfaces.Repository;
 using iPlanner.Infrastructure.Common;
 
-namespace iPlanner_Core.Infrastructure.Repositories.Reports
+namespace iPlanner.Infrastructure.Repositories.Reports
 {
     public class FileReportsRepository : IReportRepository
     {

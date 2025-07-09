@@ -1,5 +1,5 @@
-using iPlanner.Core.Application.DTO.Calendar;
-using iPlanner.Core.Application.Services.Calendar;
+using iPlanner.Application.DTO.Calendar;
+using iPlanner.Application.Services.Calendar;
 using Microsoft.AspNetCore.Mvc;
 
 namespace iPlanner.Infrastructure.Controllers

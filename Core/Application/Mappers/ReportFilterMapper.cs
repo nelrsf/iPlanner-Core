@@ -1,11 +1,11 @@
-﻿using iPlanner.Core.Application.DTO.Orders;
-using iPlanner.Core.Application.DTO.Reports;
-using iPlanner.Core.Application.DTO.Teams;
-using iPlanner.Core.Application.Interfaces;
-using iPlanner.Core.Entities.Reports;
-using iPlanner.Core.Entities.Teams;
+﻿using iPlanner.Application.DTO.Orders;
+using iPlanner.Application.DTO.Reports;
+using iPlanner.Application.DTO.Teams;
+using iPlanner.Application.Interfaces;
+using iPlanner.Entities.Reports;
+using iPlanner.Entities.Teams;
 
-namespace iPlanner.Core.Application.Mappers
+namespace iPlanner.Application.Mappers
 {
     class ReportFilterMapper : IMapper<ReportFilterDTO, ReportFilter>
     {
